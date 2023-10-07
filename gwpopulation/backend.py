@@ -4,6 +4,7 @@ __all_with_xp = [
     "models.mass",
     "models.redshift",
     "models.spin",
+    "models.lens",
     "utils",
     "vt",
 ]
